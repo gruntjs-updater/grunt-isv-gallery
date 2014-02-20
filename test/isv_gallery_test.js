@@ -44,5 +44,5 @@ exports.isv_gallery = {
     test.equal(actual, expected, 'should describe what the custom option(s) behavior is.');
 
     test.done();
-  },
+  }
 };
